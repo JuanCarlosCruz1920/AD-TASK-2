@@ -1,3 +1,5 @@
+![NeoScreen Logo](assets/img/Logo.White.png)
+
 NeoScreen
 
 A modern movie review platform built with fundamental PHP concepts.
