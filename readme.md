@@ -53,15 +53,7 @@ Rules, Practices and Principles
 
 This project adheres to the following guidelines:
 
- No Classes: Object-Oriented Programming (OOP) concepts like classes are intentionally excluded to focus on procedural programming fundamentals.
- No User Input (Forms): Complex user input handling via forms (`$_POST` data) is not implemented. Navigation uses simple `$_GET` parameters for demonstration.
- Modular Design: Emphasizes fragmentation to separate concerns and improve code organization.
+No Classes: Object-Oriented Programming (OOP) concepts like classes are intentionally excluded to focus on procedural programming fundamentals.
+No User Input (Forms): Complex user input handling via forms (`$_POST` data) is not implemented. Navigation uses simple `$_GET` parameters for demonstration.
+Modular Design: Emphasizes fragmentation to separate concerns and improve code organization.
 
-Git Commit Labels
-
-When making commits to this project, use the following conventional commit types:
-
- `feat`: A new feature
- `fix`: A bug fix
- `refactor`: A code change that neither fixes a bug nor adds a feature
- `docs`: Documentation only changes
